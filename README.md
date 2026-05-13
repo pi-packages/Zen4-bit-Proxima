@@ -61,6 +61,30 @@ https://github.com/user-attachments/assets/d4121fdb-f97e-4d35-846c-5ec7c5249a85
 
 ---
 
+<div align="center">
+
+### 💖 Sponsors
+
+*Proxima keeps evolving thanks to these amazing people*
+
+<br>
+
+<a href="https://github.com/TheNetworker">
+<img src="https://github.com/TheNetworker.png" width="80" alt="TheNetworker"/>
+</a>
+<br>
+<a href="https://github.com/TheNetworker"><b>@TheNetworker</b></a>
+<br>
+<sub>⭐ Star Sponsor · 🥇 First Sponsor</sub>
+
+<br><br>
+
+*Great things are built together —* [**Be a part of our journey →**](https://github.com/sponsors/Zen4-bit)
+
+</div>
+
+---
+
 ## Overview
 
 Proxima is a local AI gateway that connects multiple AI providers to your development environment. It communicates with each provider at the browser level through your active login sessions — the same way you'd chat with them in your browser.
